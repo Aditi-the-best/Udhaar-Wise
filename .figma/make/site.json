@@ -1,0 +1,10 @@
+{
+  "description": "Empowering Indian kirana shopkeepers, this AI-driven assistant simplifies order management, tracks udhaar, and offers financial insights through WhatsApp.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
